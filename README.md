@@ -11,7 +11,7 @@ This is a phonebook application built using React, React Router, Redux Toolkit, 
 
 # Installation vs Usage
 1. Clone the repository:
-git clone https://github.com/miamarichka/phonebook-app.git
+git clone https://github.com/miamarichka/phonebook.git
 2. Navigate to the project directory:
 cd phonebook-app
 3. Install the dependencies:
