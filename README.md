@@ -1,4 +1,4 @@
-# Phonebook App
+# Phone  Pholio App
 
 This is a phonebook application built using React, React Router, Redux Toolkit, and Axios. It allows users to register, login, and manage their phone numbers.
 
@@ -11,7 +11,7 @@ This is a phonebook application built using React, React Router, Redux Toolkit, 
 
 # Installation vs Usage
 1. Clone the repository:
-git clone https://github.com/miamarichka/phonebook.git
+git clone https://github.com/miamarichka/phonepholio.git
 2. Navigate to the project directory:
 cd phonebook-app
 3. Install the dependencies:
